@@ -80,7 +80,7 @@ To conduct a detailed exploratory data analysis of hotel booking data to identif
     Delivered interactive visualizations like heatmaps, scatter plots, bar charts, and pair plots to communicate insights effectively.
 
 
-Business Impact:
+**Business Impact:**
 
 
     Improved decision-making for pricing strategies based on ADR trends and lead times.
